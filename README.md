@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jayson.
+- 👀 I’m interested in continuous self-development, stepping out of my comfort zone and challenging myself. 
+- 🌱 I’m currently studying coding, software developer (front-end).
+- 📫 How to reach me https://www.linkedin.com/in/jayson-barroga-3a2254286/
